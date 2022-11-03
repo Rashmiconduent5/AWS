@@ -1,0 +1,4 @@
+#!/bin/bash
+# This is a new Project
+echo $Shell
+echo "My name is Rashmi"
